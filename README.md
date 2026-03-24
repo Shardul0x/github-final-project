@@ -1,1 +1,1 @@
-# Simple Interest Calculator
+Emotion Detection Application using Watson NLP
